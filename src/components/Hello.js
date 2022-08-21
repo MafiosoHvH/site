@@ -19,12 +19,12 @@ function Hello() {
                 <h1>INFORMATIONS:</h1>
                 <div className="infos">
                     <img src={logo} />
-                    <p className="i-text">Olá, sou o Nicolas mais conhecido como Drukas, estou aprendendo programação, mas objtivamente <span>React JS, HTML, CSS.</span> Esse é meu primeiro site em ReactJS, espero que goste! Caso queira ver meus projetos clique no botão abaixo.</p>
+                    <p className="i-text">Olá, sou o Nicolas mais conhecido como Drukas, estou aprendendo programação, mas objetivamente <span>React JS, HTML, CSS.</span> Esse é meu primeiro site em ReactJS, espero que goste! Caso queira ver meus projetos clique no botão abaixo.</p>
                 </div>
                 <a href="https://discord.gg/PtRPubtm5z" className="portfolio" target={'_blank'}>Portfólio</a>
             </div>
             <div className="informacoes2">
-                <h1 className="projetos-h1" >ALGUM DOS MEUS PROJETOS:</h1>
+                <h1 className="projetos-h1" >ALGUNS DOS MEUS PROJETOS:</h1>
                 <div className="projetos">
                     <div className="quadrado">
                         <p className="name-p">ARSENAL</p>
